@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="dont_have_account">Doesnt have account yet?</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Sign In</string>
+    <string name="signin_page">Welcome Back, Sign In and Create Your Story!</string>
+    <string name="signin_create_story">Sign In and Create Your Story!</string>
+    <string name="signup_create_story">Sign Up and Create Your Story!</string>
+    <string name="signup_page">Welcome Sir, Sign Up and Create Your Story!</string>
+
+    <string name="input_email">Input Email</string>
+    <string name="invalid_email">Invalid Email Format</string>
+    <string name="input_pass">Input Password</string>
+    <string name="pass_length">Password Minimum 8 Characters</string>
+    <string name="name_required">Name must be filled</string>
+    <string name="check_input">Please Check Ur Input</string>
+
+    <string name="add_story">Add Story</string>
+    <string name="logout">Logout</string>
+
+    <string name="preview">Preview</string>
+    <string name="camera">Camera</string>
+    <string name="description">Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+
+    <string name="please_select_an_image">Please select an image!</string>
+    <string name="permission_not_granted">Permission not granted</string>
+    <string name="setting">Setting</string>
+    <string name="failed_retrieve">Failed to retrieve selected image.</string>
+</resources>
